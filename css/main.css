@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(209, 221, 238);
+    color:black;
+}
+
+/*****************************************/
+.label{
+    color:black;
+    margin-left: 5%;
+    float: left;
+    width: 90%;
+}
+/*****************************************/
+.model-list{
+    margin-left: 5%;
+}
+/*****************************************/
+.intro{
+    margin: 5%;
+    float: left;
+}
+.model{
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+}
+.model img{
+}
+.about{
+    float: left;
+    width: 90%;
+    margin-left: 5%;
+}
